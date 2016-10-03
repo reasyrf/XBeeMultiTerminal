@@ -10,7 +10,6 @@ Current Features:
 - XBee coordinator device status.
 - Run simple XBee commands.
 - Detect clients.
-- Change serial port settings.
 
 ![Software Screenshot](MultiTerminal.png?raw=true)
 
