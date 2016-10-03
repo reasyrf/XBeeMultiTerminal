@@ -2,7 +2,7 @@
 <HelpTOC>
 
   <HelpTOCNode Title="About" Url="html/ba553d44-1f88-4105-88ec-706ce2b66f83.htm" />
-  <HelpTOCNode Id="3420203d-09c9-4e66-903f-f914cc7fc31e" Title="Getting Started" Url="html/34d2e4cd-7578-435d-897e-102d4d031698.htm">
+  <HelpTOCNode Id="57e8f9c8-64d8-405d-af91-8dd3de9ec363" Title="Getting Started" Url="html/34d2e4cd-7578-435d-897e-102d4d031698.htm">
     <HelpTOCNode Title="Named Pipes" Url="html/a7861de1-88dd-4f3e-89ca-c2236eddf94f.htm" />
     <HelpTOCNode Title="Client Scanning" Url="html/07e0d857-8863-4bda-ae5d-3c848e338399.htm" />
   </HelpTOCNode>
@@ -10,7 +10,7 @@
   <HelpTOCNode Title="XBee Commands" Url="html/035e8864-acf4-4fa1-9278-b84f3238613c.htm" />
   <HelpTOCNode Title="Saving and Loading Sessions" Url="html/6730b259-165e-472f-9bb5-2a39cc074b11.htm" />
   <HelpTOCNode Title="Considerations" Url="html/9b760047-13dc-4be3-acd9-aef0e991722e.htm" />
-  <HelpTOCNode Id="56344ff1-dd7a-4104-b82a-1e812135c597" Title="Version History" Url="html/90b7f806-433d-4171-8d80-4b98f4eafdba.htm">
+  <HelpTOCNode Id="25252595-bd8b-4260-94d7-ba2522560833" Title="Version History" Url="html/90b7f806-433d-4171-8d80-4b98f4eafdba.htm">
     <HelpTOCNode Title="Version 0.1.0.0" Url="html/69dae57e-27fa-4d83-ae60-ed7c5af97039.htm" />
     <HelpTOCNode Title="Version 0.1.0.2" Url="html/71895b9c-d86c-4eed-ba47-eeca013da49e.htm" />
   </HelpTOCNode>
