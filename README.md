@@ -3,6 +3,8 @@ Connect to multiple XBee® clients configured as transparent routers and communi
 
 ![Software Screenshot](MultiTerminal.png?raw=true)
 
+![Typical Hardware Configuration](docs/media/Hardware.png?raw=true)
+
 # Help
 [Click here for HTML help](https://reasyrf.github.io/XBeeMultiTerminal)
 
