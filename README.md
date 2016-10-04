@@ -20,6 +20,7 @@ Current Features:
 
 # TODO
 Copy and paste working correctly in terminal. In the meantime you can use a named pipe with putty instead.
+Release sources (after NLog builds correctly).
 
 # Prerequisites
 Requires .NET 4.5 Runtime - https://www.microsoft.com/net/download
