@@ -10,6 +10,7 @@ Current Features:
 - XBee coordinator device status.
 - Run simple XBee commands.
 - Detect clients.
+- Packet debug output.
 
 ![Software Screenshot](MultiTerminal.png?raw=true)
 
