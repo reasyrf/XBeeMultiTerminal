@@ -20,8 +20,8 @@ Current Features:
 [Click here for HTML help](https://reasyrf.github.io/XBeeMultiTerminal)
 
 # TODO
-Copy and paste working correctly in terminal. In the meantime you can use a named pipe with putty instead.
-Release sources (after NLog builds correctly).
+- Copy and paste working correctly in terminal. In the meantime you can use a named pipe with Putty instead.
+- Release sources (after NLog builds correctly).
 
 # Prerequisites
 Requires .NET 4.5 Runtime - https://www.microsoft.com/net/download
