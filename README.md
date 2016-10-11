@@ -1,5 +1,5 @@
 # XBee Multi Terminal
-Connect to multiple XBee® clients configured as transparent routers and communicate concurrently via their serial terminal connections, from a single coordinator.
+Connect to multiple XBee® clients configured as transparent routers and communicate concurrently via their serial terminal connections, all from a single coordinator.
 
 [Latest Release v0.2.0.0](https://github.com/reasyrf/XBeeMultiTerminal/blob/master/Installers/v0.2.0.0/XBMTSetupv.0.2.0.0.exe?raw=true)
 
