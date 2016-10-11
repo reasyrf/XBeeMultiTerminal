@@ -28,6 +28,7 @@ Current Features:
 - Fix API enable (cannot connect to host modem when in transparent mode). Must set in XCTU.
 - Change line ending transmission/receive type (for each terminal).
 - Update help with new features (copy/paste, labels).
+- Write current settings to non-volatile storage on host modem.
 
 # Prerequisites
 Requires .NET 4.5 Runtime - https://www.microsoft.com/net/download
