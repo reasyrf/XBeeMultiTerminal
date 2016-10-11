@@ -12,7 +12,7 @@ Current Features:
 - Detect clients.
 - Packet debug output.
 - Copy and paste to terminals.
-- Label terminal windows.
+- Label terminal windows (right click title bar of terminal window).
 - Fragmented/Large packet support.
 
 ![Software Screenshot](MultiTerminal.png?raw=true)
