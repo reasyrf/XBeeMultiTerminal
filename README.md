@@ -10,6 +10,7 @@ Current Features:
 - XBee coordinator device status.
 - Run simple XBee commands.
 - Detect clients.
+- Packet debug output.
 
 ![Software Screenshot](MultiTerminal.png?raw=true)
 
@@ -17,6 +18,11 @@ Current Features:
 
 # Help
 [Click here for HTML help](https://reasyrf.github.io/XBeeMultiTerminal)
+
+# TODO
+- Copy and paste working correctly in terminal. In the meantime you can use a named pipe with Putty instead.
+- Release sources (after NLog builds correctly).
+- Label terminal windows.
 
 # Prerequisites
 Requires .NET 4.5 Runtime - https://www.microsoft.com/net/download
