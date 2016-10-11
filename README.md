@@ -1,7 +1,7 @@
 # XBee Multi Terminal
 Connect to multiple XBee® clients configured as transparent routers and communicate concurrently via their serial terminal connections, from a single coordinator.
 
-[Latest Release](https://github.com/reasyrf/XBeeMultiTerminal/blob/master/Installers/v0.1.0.2/XBMTSetupv.0.1.0.2.exe?raw=true)
+[Latest Release](https://github.com/reasyrf/XBeeMultiTerminal/blob/master/Installers/v0.2.0.0/XBMTSetupv.0.2.0.0.exe?raw=true)
 
 Current Features:
 - Multiplexed terminal windows.
@@ -11,6 +11,9 @@ Current Features:
 - Run simple XBee commands.
 - Detect clients.
 - Packet debug output.
+- Copy and paste to terminals.
+- Label terminal windows.
+- Fragmented/Large packet support.
 
 ![Software Screenshot](MultiTerminal.png?raw=true)
 
@@ -20,9 +23,9 @@ Current Features:
 [Click here for HTML help](https://reasyrf.github.io/XBeeMultiTerminal)
 
 # TODO
-- Copy and paste working correctly in terminal. In the meantime you can use a named pipe with Putty instead.
 - Release sources (after NLog builds correctly).
-- Label terminal windows.
+- Fix problem with duplicate received packets.
+- Fix API enable (cannot connect to host modem when in transparent mode). Must set in XCTU.
 
 # Prerequisites
 Requires .NET 4.5 Runtime - https://www.microsoft.com/net/download
