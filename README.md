@@ -21,6 +21,9 @@ Current Features:
 
 ![Typical Hardware Configuration](docs/media/Hardware.png?raw=true)
 
+# Version History 
+[Version History](https://reasyrf.github.io/XBeeMultiTerminal/html/90b7f806-433d-4171-8d80-4b98f4eafdba.htm)
+
 # Help
 [Click here for HTML help](https://reasyrf.github.io/XBeeMultiTerminal)
 
