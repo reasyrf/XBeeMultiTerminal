@@ -1,7 +1,7 @@
 # XBee Multi Terminal
 Connect to multiple XBee® clients configured as transparent routers and communicate concurrently via their serial terminal connections, all from a single coordinator.
 
-[Latest Release v0.3.0.0](https://github.com/reasyrf/XBeeMultiTerminal/blob/master/Installers/v0.3.0.1/XBMTSetupv.0.3.0.1.exe?raw=true)
+[Latest Release v0.3.0.1](https://github.com/reasyrf/XBeeMultiTerminal/blob/master/Installers/v0.3.0.1/XBMTSetupv.0.3.0.1.exe?raw=true)
 
 Current Features:
 - Multiplexed terminal windows.
