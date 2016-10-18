@@ -33,6 +33,7 @@ Current Features:
 - Change line ending transmission/receive type (for each terminal).
 - Update help with new features (copy/paste, labels).
 - Write current settings to non-volatile storage on host modem.
+- Log terminal output to file.
 
 # Prerequisites
 Requires .NET 4.5 Runtime - https://www.microsoft.com/net/download
