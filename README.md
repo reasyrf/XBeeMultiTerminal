@@ -36,5 +36,5 @@ Current Features:
 - Log terminal output to file (for the moment you can use the named pipe and an external program like Putty to do this).
 
 # Prerequisites
-- Requires .NET 4.0 Runtime - https://www.microsoft.com/net/download
+- Requires .NET 4.0 Runtime (versions < 0.3.3.0 require .NET 4.5) - https://www.microsoft.com/net/download
 - XCTU (for XBee modem drivers) - https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu
