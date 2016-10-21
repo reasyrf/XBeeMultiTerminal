@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="about" Url="html/ba553d44-1f88-4105-88ec-706ce2b66f83.htm" />
-  <HelpKINode Title="client">
-    <HelpKINode Title="scanning" Url="html/07e0d857-8863-4bda-ae5d-3c848e338399.htm" />
+  <HelpKINode Title="config">
+    <HelpKINode Title="client scanning" Url="html/07e0d857-8863-4bda-ae5d-3c848e338399.htm" />
+    <HelpKINode Title="named pipes" Url="html/a7861de1-88dd-4f3e-89ca-c2236eddf94f.htm" />
+    <HelpKINode Title="saving loading" Url="html/6730b259-165e-472f-9bb5-2a39cc074b11.htm" />
+    <HelpKINode Title="start" Url="html/34d2e4cd-7578-435d-897e-102d4d031698.htm" />
   </HelpKINode>
-  <HelpKINode Title="considerations" Url="html/9b760047-13dc-4be3-acd9-aef0e991722e.htm" />
-  <HelpKINode Title="named">
-    <HelpKINode Title="pipes" Url="html/a7861de1-88dd-4f3e-89ca-c2236eddf94f.htm" />
-  </HelpKINode>
-  <HelpKINode Title="start" Url="html/34d2e4cd-7578-435d-897e-102d4d031698.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="Version 0.1.0.0" Url="html/69dae57e-27fa-4d83-ae60-ed7c5af97039.htm" />
     <HelpKINode Title="Version 0.1.0.2" Url="html/71895b9c-d86c-4eed-ba47-eeca013da49e.htm" />
@@ -17,10 +15,12 @@
     <HelpKINode Title="Version 0.3.0.1" Url="html/2c71e81a-e621-47fa-aed8-7980eca2ac08.htm" />
     <HelpKINode Title="Version 0.3.1.0" Url="html/14a83b28-809a-4634-b355-e9f9e75c3860.htm" />
     <HelpKINode Title="Version 0.3.2.0" Url="html/253d8430-58d7-4bc1-93d2-a5ca393fc04b.htm" />
+    <HelpKINode Title="Version 0.3.3.0" Url="html/a462d04a-acd7-48d7-93a2-f46d44ad8bc2.htm" />
     <HelpKINode Title="history" Url="html/90b7f806-433d-4171-8d80-4b98f4eafdba.htm" />
   </HelpKINode>
   <HelpKINode Title="xbee">
     <HelpKINode Title="command" Url="html/035e8864-acf4-4fa1-9278-b84f3238613c.htm" />
-    <HelpKINode Title="hardware, configuration, config" Url="html/7700f5cc-e6ef-4ced-8442-0ef52b848d3b.htm" />
+    <HelpKINode Title="considerations" Url="html/9b760047-13dc-4be3-acd9-aef0e991722e.htm" />
+    <HelpKINode Title="hardware" Url="html/7700f5cc-e6ef-4ced-8442-0ef52b848d3b.htm" />
   </HelpKINode>
 </HelpKI>

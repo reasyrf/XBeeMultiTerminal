@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2016.9.17.0" projectFile="C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Documentation.shfbproj" started="18/10/2016 12:35:37 AM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2016.9.17.0" projectFile="C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Documentation.shfbproj" started="21/10/2016 2:58:13 PM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -28,17 +28,17 @@ Validating and copying documentation source information
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0060
+</plugIn>    Last step completed in 00:00:00.0170
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
 <plugIn name="Additional Content Only" behavior="InsteadOf" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0000
+</plugIn>    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 <plugIn name="Additional Content Only" behavior="InsteadOf" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0020
+</plugIn>    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
@@ -48,7 +48,7 @@ Transforming reflection output...
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
 <plugIn name="Additional Content Only" behavior="InsteadOf" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0030
+</plugIn>    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -100,20 +100,22 @@ Generating conceptual topic files
     C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Content\VersionHistory\v0.3.1.0.aml -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\ddueXml\14a83b28-809a-4634-b355-e9f9e75c3860.xml
     Parsing topic file &#39;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Content\VersionHistory\v0.3.2.0.aml&#39;
     C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Content\VersionHistory\v0.3.2.0.aml -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\ddueXml\253d8430-58d7-4bc1-93d2-a5ca393fc04b.xml
-    Last step completed in 00:00:00.3172
+    Parsing topic file &#39;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Content\VersionHistory\v0.3.3.0.aml&#39;
+    C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Content\VersionHistory\v0.3.3.0.aml -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\ddueXml\a462d04a-acd7-48d7-93a2-f46d44ad8bc2.xml
+    Last step completed in 00:00:00.3682
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     Merging topic IDs into manifest.xml
-    Last step completed in 00:00:00.0410
+    Last step completed in 00:00:00.0180
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\icons\Help.png -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\HtmlHelp1\icons\Help.png
 C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\icons\Help.png -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\Website\icons\Help.png
-    Last step completed in 00:00:00.0160
+    Last step completed in 00:00:00.0200
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -122,7 +124,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 18/10/2016 12:35:39 AM.
+Build started 21/10/2016 2:58:14 PM.
 Project &quot;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2016.9.17.0)
@@ -133,14 +135,14 @@ Done Building Project &quot;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Doc
 
 Build succeeded.
 
-Time Elapsed 00:00:00.11
+Time Elapsed 00:00:00.10
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.3823
+    Last step completed in 00:00:00.4033
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.1221
+    Last step completed in 00:00:00.1211
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -149,12 +151,12 @@ C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\sand
   Updating conceptual topic configurations.
     Removing unused ExampleComponent.
 <plugIn name="Additional Content Only" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0080
+</plugIn>    Last step completed in 00:00:00.0070
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe - BuildTopics.proj]
-Build started 18/10/2016 12:35:39 AM.
+Build started 21/10/2016 2:58:15 PM.
 Project &quot;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\BuildTopics.proj&quot; on node 1 (default targets).
 BuildTopics:
   BuildAssembler (v2016.9.17.0)
@@ -162,7 +164,7 @@ BuildTopics:
   Portions Copyright &#184; 2006-2016, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 16 topic(s)
+  Processed 17 topic(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
   ResolveArtLinksComponent: Copying media files...
   ResolveArtLinksComponent: Copying media files...
@@ -170,8 +172,8 @@ Done Building Project &quot;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Doc
 
 Build succeeded.
 
-Time Elapsed 00:00:01.66
-    Last step completed in 00:00:01.8213
+Time Elapsed 00:00:02.12
+    Last step completed in 00:00:02.3026
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
@@ -187,17 +189,17 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing Help 1 files in C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\HtmlHelp1
-Processed 16 HTML files
+Processed 17 HTML files
 Sorting keywords and generating See Also indices
 Saving HTML Help 1 keyword index to C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Help.hhk
 Saving HTML Help 1 table of contents to C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Help.hhc
 
 Processing website files in C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\Website
-Processed 16 HTML files
+Processed 17 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\WebKI.xml
 Saving website table of contents to C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00.4263
+    Last step completed in 00:00:00.6074
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -339,19 +341,19 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.2749
+    Last step completed in 00:00:01.3059
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0060
+    Last step completed in 00:00:00.0070
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -368,9 +370,9 @@ Compiling HTML Help 1 file...
   
   Compile time: 0 minutes, 0 seconds
   
-  18	Topics
+  19	Topics
   
-  80	Local links
+  88	Local links
   
   1	Internet link
   
@@ -380,37 +382,37 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\HtmlHelp1\Help.chm, 235,603 bytes
+  Created c:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\Output\HtmlHelp1\Help.chm, 236,583 bytes
   
-  Compression decreased file by 101,987 bytes.
+  Compression decreased file by 104,551 bytes.
   
-    Last step completed in 00:00:01.5946
+    Last step completed in 00:00:01.6192
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00.0640
+</plugIn>    Last step completed in 00:00:00.1511
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
-Copied 131 files for the website content
-    Last step completed in 00:00:00.3983
+Copied 132 files for the website content
+    Last step completed in 00:00:00.3713
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Not all build output was removed from &#39;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\&#39;: The process cannot access the file &#39;2c71e81a-e621-47fa-aed8-7980eca2ac08.htm&#39; because it is being used by another process.
-    Last step completed in 00:00:00.1561
+    Not all build output was removed from &#39;C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\Documentation\Help\Working\&#39;: The process cannot access the file &#39;253d8430-58d7-4bc1-93d2-a5ca393fc04b.htm&#39; because it is being used by another process.
+    Last step completed in 00:00:00.1491
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 18/10/2016 12:35:45 AM.  Total time: 00:00:07.5048
+Build completed successfully at 21/10/2016 2:58:21 PM.  Total time: 00:00:08.3391
 
 </buildStep>
 </shfbBuild>
