@@ -1,0 +1,165 @@
+2016-09-27 17:51:53.0692 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x65
+2016-09-27 17:51:53.1022 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x01 0x41 0x50 0x65]
+2016-09-27 17:51:53.1333 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x06 0x88 0x01 0x41 0x50 0x00 0x01 0xE4]
+2016-09-27 17:51:53.1683 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:51:53.1683 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:51:53.1823 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:51:53.1823 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x6F
+2016-09-27 17:51:53.1823 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x02 0x42 0x44 0x6F]
+2016-09-27 17:51:53.2093 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00]
+2016-09-27 17:51:53.2133 | DEBUG | XBee.SerialConnection | Receiving data: [0x09 0x88 0x02 0x42 0x44 0x00 0x00 0x00 0x00 0x03 0xEC]
+2016-09-27 17:51:53.2133 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:51:53.2133 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:51:53.2133 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:51:53.2263 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x56
+2016-09-27 17:51:53.2263 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x03 0x4E 0x50 0x56]
+2016-09-27 17:51:53.2544 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x03 0x4E 0x50 0x00 0x01 0x00 0xD5]
+2016-09-27 17:51:53.2544 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:51:53.2584 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:51:53.2584 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:51:53.2584 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x4B
+2016-09-27 17:51:53.2584 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x04 0x56 0x52 0x4B]
+2016-09-27 17:51:53.2864 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x04 0x56 0x52 0x00 0x80 0x74 0xD7]
+2016-09-27 17:51:53.2864 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:51:53.2864 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:51:53.2914 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:51:53.2914 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x60
+2016-09-27 17:51:53.2914 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x05 0x4E 0x44 0x60]
+2016-09-27 17:51:57.2827 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x19 0x88 0x05 0x4E]
+2016-09-27 17:51:57.2987 | DEBUG | XBee.SerialConnection | Receiving data: [0x44 0x00 0xFF 0xFE 0x00 0x13 0xA2 0x00 0x41 0x52 0xB7 0x3D 0x20 0x00 0xFF]
+2016-09-27 17:51:57.3147 | DEBUG | XBee.SerialConnection | Receiving data: [0xFE 0x01 0x00 0xC1 0x05 0x10 0x1E 0x95]
+2016-09-27 17:51:57.3147 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:51:57.3147 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:51:57.3207 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:52:47.0526 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x65
+2016-09-27 17:52:47.0736 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x01 0x41 0x50 0x65]
+2016-09-27 17:52:47.1717 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x06 0x88 0x01 0x41 0x50 0x00 0x01 0xE4]
+2016-09-27 17:52:47.2027 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:52:47.2027 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:52:47.2157 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:52:47.2157 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x6F
+2016-09-27 17:52:47.2157 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x02 0x42 0x44 0x6F]
+2016-09-27 17:52:47.2357 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x09]
+2016-09-27 17:52:47.2517 | DEBUG | XBee.SerialConnection | Receiving data: [0x88 0x02 0x42 0x44 0x00 0x00 0x00 0x00 0x03 0xEC]
+2016-09-27 17:52:47.2517 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:52:47.2517 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:52:47.2517 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:52:47.2577 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x56
+2016-09-27 17:52:47.2577 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x03 0x4E 0x50 0x56]
+2016-09-27 17:52:47.2837 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x03 0x4E 0x50 0x00 0x01]
+2016-09-27 17:52:47.2997 | DEBUG | XBee.SerialConnection | Receiving data: [0x00 0xD5]
+2016-09-27 17:52:47.2997 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:52:47.2997 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:52:47.2997 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:52:47.3078 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x4B
+2016-09-27 17:52:47.3078 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x04 0x56 0x52 0x4B]
+2016-09-27 17:52:47.3318 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x04 0x56 0x52 0x00 0x80 0x74 0xD7]
+2016-09-27 17:52:47.3318 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:52:47.3318 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:52:47.3358 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 17:52:47.3358 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x60
+2016-09-27 17:52:47.3358 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x05 0x4E 0x44 0x60]
+2016-09-27 17:53:00.1040 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x19 0x88 0x05 0x4E 0x44 0x00 0xFF 0xFE 0x00]
+2016-09-27 17:53:00.1199 | DEBUG | XBee.SerialConnection | Receiving data: [0x13 0xA2 0x00 0x41 0x52 0xB7 0x3D 0x20 0x00 0xFF 0xFE 0x01 0x00 0xC1 0x05]
+2016-09-27 17:53:00.1359 | DEBUG | XBee.SerialConnection | Receiving data: [0x10 0x1E 0x95]
+2016-09-27 17:53:00.1359 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 17:53:00.1359 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 17:53:00.1489 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:51:47.5619 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x65
+2016-09-27 22:51:47.5759 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x01 0x41 0x50 0x65]
+2016-09-27 22:51:47.5989 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x06 0x88]
+2016-09-27 22:51:47.6119 | DEBUG | XBee.SerialConnection | Receiving data: [0x01 0x41 0x50 0x00 0x01 0xE4]
+2016-09-27 22:51:47.6300 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:51:47.6300 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:51:47.6410 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:51:47.6490 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x6F
+2016-09-27 22:51:47.6490 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x02 0x42 0x44 0x6F]
+2016-09-27 22:51:47.6760 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x09 0x88 0x02 0x42 0x44 0x00 0x00 0x00 0x00 0x03 0xEC]
+2016-09-27 22:51:47.6760 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:51:47.6760 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:51:47.6760 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:51:47.6830 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x56
+2016-09-27 22:51:47.6830 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x03 0x4E 0x50 0x56]
+2016-09-27 22:51:47.7080 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x03 0x4E 0x50 0x00 0x01 0x00 0xD5]
+2016-09-27 22:51:47.7080 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:51:47.7080 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:51:47.7080 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:51:47.7110 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x4B
+2016-09-27 22:51:47.7110 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x04 0x56 0x52 0x4B]
+2016-09-27 22:51:47.7430 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x04 0x56 0x52 0x00 0x80 0x74 0xD7]
+2016-09-27 22:51:47.7430 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:51:47.7430 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:51:47.7430 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:51:47.7430 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x60
+2016-09-27 22:51:47.7430 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x05 0x4E 0x44 0x60]
+2016-09-27 22:52:30.4798 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x65
+2016-09-27 22:52:30.4918 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x01 0x41 0x50 0x65]
+2016-09-27 22:52:30.5439 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x06 0x88 0x01 0x41 0x50 0x00 0x01 0xE4]
+2016-09-27 22:52:30.5649 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:52:30.5649 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:52:30.5759 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:52:30.5759 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x6F
+2016-09-27 22:52:30.5759 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x02 0x42 0x44 0x6F]
+2016-09-27 22:52:30.5990 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x09]
+2016-09-27 22:52:30.6149 | DEBUG | XBee.SerialConnection | Receiving data: [0x88 0x02 0x42 0x44 0x00 0x00 0x00 0x00 0x03 0xEC]
+2016-09-27 22:52:30.6149 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:52:30.6149 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:52:30.6169 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:52:30.6169 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x56
+2016-09-27 22:52:30.6169 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x03 0x4E 0x50 0x56]
+2016-09-27 22:52:30.6469 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x03 0x4E 0x50]
+2016-09-27 22:52:30.6489 | DEBUG | XBee.SerialConnection | Receiving data: [0x00 0x01 0x00 0xD5]
+2016-09-27 22:52:30.6489 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:52:30.6639 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:52:30.6639 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:52:30.6639 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x4B
+2016-09-27 22:52:30.6639 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x04 0x56 0x52 0x4B]
+2016-09-27 22:52:30.6950 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x04 0x56 0x52 0x00 0x80 0x74 0xD7]
+2016-09-27 22:52:30.6950 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:52:30.6950 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:52:30.6950 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 22:52:30.6950 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x60
+2016-09-27 22:52:30.6950 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x05 0x4E 0x44 0x60]
+2016-09-27 22:52:42.8792 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x19]
+2016-09-27 22:52:42.8972 | DEBUG | XBee.SerialConnection | Receiving data: [0x88 0x05 0x4E 0x44 0x00 0xFF 0xFE 0x00 0x13 0xA2 0x00 0x41 0x52 0xB7 0x3D]
+2016-09-27 22:52:42.9012 | DEBUG | XBee.SerialConnection | Receiving data: [0x20 0x00 0xFF 0xFE 0x01 0x00 0xC1 0x05 0x10 0x1E 0x95]
+2016-09-27 22:52:42.9012 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 22:52:42.9012 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 22:52:42.9212 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 23:14:47.2579 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x65
+2016-09-27 23:14:47.2779 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x01 0x41 0x50 0x65]
+2016-09-27 23:14:47.4520 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x06 0x88 0x01 0x41 0x50 0x00 0x01 0xE4]
+2016-09-27 23:14:47.4810 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 23:14:47.4810 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 23:14:47.4931 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 23:14:47.4931 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x6F
+2016-09-27 23:14:47.4931 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x02 0x42 0x44 0x6F]
+2016-09-27 23:14:47.5191 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x09 0x88 0x02 0x42 0x44 0x00 0x00 0x00 0x00]
+2016-09-27 23:14:47.5361 | DEBUG | XBee.SerialConnection | Receiving data: [0x03 0xEC]
+2016-09-27 23:14:47.5361 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 23:14:47.5361 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 23:14:47.5391 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 23:14:47.5391 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x56
+2016-09-27 23:14:47.5391 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x03 0x4E 0x50 0x56]
+2016-09-27 23:14:47.5671 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x03 0x4E 0x50 0x00 0x01 0x00]
+2016-09-27 23:14:47.5831 | DEBUG | XBee.SerialConnection | Receiving data: [0xD5]
+2016-09-27 23:14:47.5831 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 23:14:47.5831 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 23:14:47.5831 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 23:14:47.5861 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x4B
+2016-09-27 23:14:47.5861 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x04 0x56 0x52 0x4B]
+2016-09-27 23:14:47.6151 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x07 0x88 0x04 0x56 0x52 0x00 0x80 0x74 0xD7]
+2016-09-27 23:14:47.6151 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 23:14:47.6151 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 23:14:47.6191 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-27 23:14:47.6191 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x60
+2016-09-27 23:14:47.6191 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x05 0x4E 0x44 0x60]
+2016-09-27 23:14:51.0055 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E]
+2016-09-27 23:14:51.0215 | DEBUG | XBee.SerialConnection | Receiving data: [0x00 0x19 0x88 0x05 0x4E 0x44 0x00 0xFF 0xFE 0x00 0x13 0xA2 0x00 0x41 0x52]
+2016-09-27 23:14:51.0375 | DEBUG | XBee.SerialConnection | Receiving data: [0xB7 0x3D 0x20 0x00 0xFF 0xFE 0x01 0x00 0xC1 0x05 0x10 0x1E 0x95]
+2016-09-27 23:14:51.0375 | DEBUG | XBee.XBeeChecksum | Computed checksum is 0x00
+2016-09-27 23:14:51.0375 | DEBUG | XBee.XBeeChecksum | Verify checksum is 0x00
+2016-09-27 23:14:51.0425 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse
+2016-09-28 01:28:30.0844 | DEBUG | XBee.SerialConnection | Sending data: [0x7E 0x00 0x04 0x08 0x01 0x41 0x50 0x65]
+2016-09-28 01:28:30.1884 | DEBUG | XBee.SerialConnection | Receiving data: [0x7E 0x00 0x06 0x88 0x01 0x41 0x50 0x00 0x01 0xE4]
+2016-09-28 01:28:30.2285 | DEBUG | XBee.XBee | XBee.Frames.ATCommandResponse

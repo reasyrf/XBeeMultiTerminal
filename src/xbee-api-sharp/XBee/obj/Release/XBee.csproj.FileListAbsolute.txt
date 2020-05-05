@@ -1,0 +1,16 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Release\XBee.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Release\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Release\NLog.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Release\NLog.xml
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\obj\Release\XBee.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\obj\Release\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\obj\Release\XBee.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\bin\Release\XBee.dll
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\bin\Release\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\bin\Release\NLog.dll
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\bin\Release\NLog.xml
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\obj\Release\XBee.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\obj\Release\XBee.csproj.CoreCompileInputs.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\obj\Release\XBee.csproj.CopyComplete
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\obj\Release\XBee.dll
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\xbee-api-sharp\XBee\obj\Release\XBee.pdb

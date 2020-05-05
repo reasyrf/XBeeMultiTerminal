@@ -1,0 +1,17 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\XBee Multi Terminal.exe.config
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee Multi Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee_Multi_Terminal.FormMultiTerm.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee_Multi_Terminal.Properties.Resources.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee Multi Terminal.csproj.GenerateResource.Cache
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\XBee Multi Terminal.exe
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\XBee Multi Terminal.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee Multi Terminal.exe
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee Multi Terminal.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee_Multi_Terminal.FormTerminal.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee_Multi_Terminal.FormSettings.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\XBee.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\NLog.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\NLog.xml
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Debug\XBee_Multi_Terminal.FormLog.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Debug\NLog.config

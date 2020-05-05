@@ -1,0 +1,42 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee Multi Terminal.exe.config
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\NLog.config
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee Multi Terminal.exe
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee Multi Terminal.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\NLog.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\ClientServerUsingNamedPipes.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\NLog.xml
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee.Multi.Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.AboutBox.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormClientList.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormLog.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormMultiTerm.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormVirtual.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormTerminal.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.Properties.Resources.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormSettings.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee.Multi.Terminal.csproj.GenerateResource.Cache
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee Multi Terminal.exe
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee Multi Terminal.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\Help.chm
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.InputBox.resources
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee Multi Terminal.exe.manifest
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\bin\Release\XBee Multi Terminal.application
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee Multi Terminal.exe.manifest
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\XBee Multi Terminal\XBee Multi Terminal\obj\Release\XBee Multi Terminal.application
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee.Multi.Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.AboutBox.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormClientList.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormLog.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormMultiTerm.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormVirtual.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormTerminal.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.InputBox.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.Properties.Resources.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee_Multi_Terminal.FormSettings.resources
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee.Multi.Terminal.csproj.GenerateResource.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee.Multi.Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee Multi Terminal.exe
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\XBee Multi Terminal\obj\Release\XBee Multi Terminal.pdb

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{026296FF-9939-49DC-AD87-7F8780D7E1B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XBee</RootNamespace>
+    <AssemblyName>XBee</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NLog, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>References\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exceptions\XBeeException.cs" />
+    <Compile Include="Exceptions\XBeeFrameException.cs" />
+    <Compile Include="FrameReceivedArgs.cs" />
+    <Compile Include="Frames\AT.cs" />
+    <Compile Include="Frames\ATQueueCommand.cs" />
+    <Compile Include="Frames\CreateSourceRoute.cs" />
+    <Compile Include="Frames\ManyToOneRouteRequest.cs" />
+    <Compile Include="Frames\ModemStatus.cs" />
+    <Compile Include="Frames\OverAirUpdateStatus.cs" />
+    <Compile Include="Frames\ReceiveOptionsType.cs" />
+    <Compile Include="Frames\RemoteATCommand.cs" />
+    <Compile Include="Frames\RemoteCommandResponse.cs" />
+    <Compile Include="Frames\RouteRecordIndicator.cs" />
+    <Compile Include="Frames\SensorReadIndicator.cs" />
+    <Compile Include="Frames\ZigBeeIODataSample.cs" />
+    <Compile Include="Frames\ZigBeeReceivePacket.cs" />
+    <Compile Include="Frames\ZigBeeTransmitStatus.cs" />
+    <Compile Include="IPacketReader.cs" />
+    <Compile Include="IXBeeConnection.cs" />
+    <Compile Include="PacketParser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerialConnection.cs" />
+    <Compile Include="Utils\EnumAttribute.cs" />
+    <Compile Include="EscapedPacketReader.cs" />
+    <Compile Include="Frames\ATCommand.cs" />
+    <Compile Include="Frames\ATCommandResponse.cs" />
+    <Compile Include="Frames\ATValue.cs" />
+    <Compile Include="Frames\ExplicitAddressingTransmit.cs" />
+    <Compile Include="Frames\NodeIdentification.cs" />
+    <Compile Include="Frames\TransmitDataRequest.cs" />
+    <Compile Include="Frames\ZigBeeExplicitRXIndicator.cs" />
+    <Compile Include="PacketReader.cs" />
+    <Compile Include="Utils\ByteUtils.cs" />
+    <Compile Include="PacketReaderFactory.cs" />
+    <Compile Include="XBeeAddress.cs" />
+    <Compile Include="XBeeAPICommandId.cs" />
+    <Compile Include="XBeeChecksum.cs" />
+    <Compile Include="XBeePacketUnmarshaler.cs" />
+    <Compile Include="XBee.cs" />
+    <Compile Include="XBeeAddress16.cs" />
+    <Compile Include="XBeeAddress64.cs" />
+    <Compile Include="XBeeFrame.cs" />
+    <Compile Include="XBeeHardwareVersion.cs" />
+    <Compile Include="XBeeNode.cs" />
+    <Compile Include="XBeePacket.cs" />
+    <Compile Include="XBeeSpecialBytes.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

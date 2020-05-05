@@ -1,0 +1,1 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee.Test\obj\Debug\XBee.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Release\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Release\ClientServerUsingNamedPipes.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Release\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Release\ClientServerUsingNamedPipes.pdb
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.csprojResolveAssemblyReference.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.csproj.CoreCompileInputs.cache
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\New folder\XBeeMultiTerminal\src\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Release\ClientServerUsingNamedPipes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Debug\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Debug\ClientServerUsingNamedPipes.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.csprojResolveAssemblyReference.cache

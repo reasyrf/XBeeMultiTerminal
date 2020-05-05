@@ -21,6 +21,10 @@ Current Features:
 
 ![Typical Hardware Configuration](docs/media/Hardware.png?raw=true)
 
+# Licence
+Sources and software released under GPL3 - https://www.gnu.org/licenses/gpl-3.0.html
+Sources and software released with no implied warranty against defects or losses.
+
 # Version History 
 [Version History](https://reasyrf.github.io/XBeeMultiTerminal/html/90b7f806-433d-4171-8d80-4b98f4eafdba.htm)
 
@@ -28,7 +32,6 @@ Current Features:
 [Click here for HTML help](https://reasyrf.github.io/XBeeMultiTerminal)
 
 # TODO
-- Release sources (after NLog builds correctly).
 - Fix API enable (cannot connect to host modem when in transparent mode). Must set in XCTU.
 - Change line ending transmission/receive type (for each terminal).
 - Update help with new features (copy/paste, labels).

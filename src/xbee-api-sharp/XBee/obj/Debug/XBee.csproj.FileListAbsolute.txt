@@ -1,0 +1,7 @@
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Debug\XBee.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Debug\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Debug\NLog.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\bin\Debug\NLog.xml
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\obj\Debug\XBee.dll
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\obj\Debug\XBee.pdb
+C:\Users\Blair Wyatt\Desktop\XBee Multi Terminal\xbee-api-sharp\XBee\obj\Debug\XBee.csprojResolveAssemblyReference.cache
